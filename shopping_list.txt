@@ -8,3 +8,5 @@ sipsi
 vesipullo
 makkarapaketti
 juustoraaste
+
+and of course beer
